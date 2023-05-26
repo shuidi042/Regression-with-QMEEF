@@ -1,7 +1,7 @@
 # Regression-with-QMEEF
-1. The codes are used to reproduce the results shown in Section 5.1 of the paper "Quantized Minimum Error Entropy with Fiducial Points for Robust Regression".  
+1. The codes are used to reproduce the results shown in Section 5.1 of the paper "Quantized Minimum Error Entropy with Fiducial Points for Robust     Regression". We have tested the codes with MATLAB (R2020b) on a machine equipped with 12th Gen Intel(R) Core i5 CPU and 16GB RAM. It should be noted that the paper is still under review, and hence the related PDF is unavailable at this package.  
 2. To reproduce the results shown in Table 1, you can directly run "Main_ResultsReproduce_Table1.m".  
-3. To reproduce the results shown in Figures 1 and 2, you can directly run "Main_ResultsReproduce_Figures_1_2.m". However, it should be noted that the training time  shown in Figure 2 can be slighty influenced by the device you used.  
-4. If you are insterested in the key algorithms under different optimization criteria, please refer to the file "Algorithms", and the applications of them to design liner regression methods can refer to the file "Linear_Regression" .  
+3. To reproduce the results shown in Figures 1 and 2, you can directly run "Main_ResultsReproduce_Figures_1_2.m". However, it should be noted that the training time   shown in Figure 2 can be slighty influenced by the device you used.  
+4. If you are insterested in the key algorithms under different optimization criteria, please refer to the file "Algorithms", and the applications of them to design liner regression methods can refer to the file "Linear_Regression".  
 5. If you are insterested in the process of parameters selection, please refer to "Main_ParSelection.m' and the file "Pars_Selection". However, it should be noted that the process of parameters selection can be time consuming. Alternatively, you can directly use the parameters we have already obtained, and they can be found in the file of "Pars_Data".  
 6. If you have any other question, please feel free to contact me by the e-mail: zhengyfswu@swu.edu.cn
