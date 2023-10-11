@@ -1,4 +1,4 @@
 # Regression-with-QMEEF
-1. The package includes some codes to implement QMEEF to perform liner regression tasks. We have tested the codes with MATLAB (R2020b). 
-2. If you have any question, please feel free to contact me by the e-mail: zhengyfswu@swu.edu.cn.
+1. The package includes some codes to implement QMEEF to perform liner regression tasks.
+2. The details of QMEEF can refer to the paper titled “Quantized minimum error entropy with fiducial points for robust regression”, which was accepted for publication in Neural Networks.
 
